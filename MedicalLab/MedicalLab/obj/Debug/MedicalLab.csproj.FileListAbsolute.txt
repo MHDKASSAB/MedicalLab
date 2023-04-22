@@ -1,0 +1,14 @@
+C:\Users\kassa\source\repos\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csprojAssemblyReference.cache
+C:\Users\kassa\source\repos\MedicalLab\MedicalLab\obj\Debug\MedicalLab.AdminLogIn.resources
+C:\Users\kassa\source\repos\MedicalLab\MedicalLab\obj\Debug\MedicalLab.Agents_Page.resources
+C:\Users\kassa\source\repos\MedicalLab\MedicalLab\obj\Debug\MedicalLab.LogIn_Page.resources
+C:\Users\kassa\source\repos\MedicalLab\MedicalLab\obj\Debug\MedicalLab.Patients_Page.resources
+C:\Users\kassa\source\repos\MedicalLab\MedicalLab\obj\Debug\MedicalLab.Properties.Resources.resources
+C:\Users\kassa\source\repos\MedicalLab\MedicalLab\obj\Debug\MedicalLab.Results_Page.resources
+C:\Users\kassa\source\repos\MedicalLab\MedicalLab\obj\Debug\MedicalLab.Tests_Page.resources
+C:\Users\kassa\source\repos\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csproj.GenerateResource.cache
+C:\Users\kassa\source\repos\MedicalLab\MedicalLab\bin\Debug\MedicalLab.exe.config
+C:\Users\kassa\source\repos\MedicalLab\MedicalLab\bin\Debug\MedicalLab.exe
+C:\Users\kassa\source\repos\MedicalLab\MedicalLab\bin\Debug\MedicalLab.pdb
+C:\Users\kassa\source\repos\MedicalLab\MedicalLab\obj\Debug\MedicalLab.exe
+C:\Users\kassa\source\repos\MedicalLab\MedicalLab\obj\Debug\MedicalLab.pdb
